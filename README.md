@@ -1,7 +1,10 @@
 portfolio 👋 https://lee-geon-yeong.github.io/ 👋
 
-![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Geon-Yeong&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Geon-Yeong&layout=compact)](https://github.com/Lee-Geon-Yeong/github-readme-stats)
 
 <!--
 **Lee-Geon-Yeong/Lee-Geon-Yeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
