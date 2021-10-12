@@ -1,10 +1,14 @@
-portfolio 👋 https://lee-geon-yeong.github.io/ 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=IoT%20Developer👋&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+<p align='center'>Here's my resume :point_down:</p>
+<p align='center'>
+  <a href="https://lee-geon-yeong.github.io/">
+    <img src="https://img.shields.io/badge/Resume%20Homepage%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+</p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Geon-Yeong&show_icons=true&theme=tokyonight)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Geon-Yeong&layout=compact)](https://github.com/Lee-Geon-Yeong/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Geon-Yeong&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Geon-Yeong&layout=compact)](https://github.com/Lee-Geon-Yeong/github-readme-stats)
 
 <!--
 **Lee-Geon-Yeong/Lee-Geon-Yeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
