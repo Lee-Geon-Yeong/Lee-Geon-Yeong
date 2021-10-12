@@ -1,6 +1,6 @@
 portfolio 👋 https://lee-geon-yeong.github.io/ 👋
 
-![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
 
 <!--
