@@ -1,5 +1,8 @@
 portfolio 👋 https://lee-geon-yeong.github.io/ 👋
 
+![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 <!--
 **Lee-Geon-Yeong/Lee-Geon-Yeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
